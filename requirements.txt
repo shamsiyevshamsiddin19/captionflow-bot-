@@ -6,6 +6,6 @@ anthropic>=0.116.0
 google-genai>=1.0.0
 SQLAlchemy[asyncio]>=2.0.0
 asyncpg>=0.29.0
-yt-dlp>=2024.0.0
+yt-dlp>=2026.8.19
 oci>=2.178.0
 celery[redis]>=5.3.0

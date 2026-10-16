@@ -59,4 +59,4 @@ uritemplate==4.2.0
 urllib3==2.7.0
 websockets==16.0
 yarl==1.24.2
-yt-dlp==2026.6.9
+yt-dlp==2026.8.19
